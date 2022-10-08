@@ -6,6 +6,6 @@
 @mytag
 Scenario: User can contact customer servise
 	Given User opens contact us page 
-	When User fill in required fields field with "Webmaster" reading "QA Kus" massage
+	When User fill in required fields field with "Webmaster" reading "QA Kus" message
 	And user submits the form
-	Then massage "Your message has been successfully sent to our team." is presented to the user
+	Then message "Your message has been successfully sent to our team." is presented to the user

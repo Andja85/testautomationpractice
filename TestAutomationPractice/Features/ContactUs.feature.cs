@@ -97,13 +97,13 @@ this.ScenarioInitialize(scenarioInfo);
  testRunner.Given("User opens contact us page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 9
- testRunner.When("User fill in required fields field with \"Webmaster\" reading \"QA Kus\" massage", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.When("User fill in required fields field with \"Webmaster\" reading \"QA Kus\" message", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 10
  testRunner.And("user submits the form", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 11
- testRunner.Then("massage \"Your message has been successfully sent to our team.\" is presented to th" +
+ testRunner.Then("message \"Your message has been successfully sent to our team.\" is presented to th" +
                         "e user", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
